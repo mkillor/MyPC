@@ -10,6 +10,7 @@ public class PowerSupply {
     private boolean isModular;
     private String certification;//gold/bronze/silver
 
+
     public PowerSupply(String brand, double price, int wattage, boolean isModular, String certification) {
         this.brand = brand;
         this.price = price;

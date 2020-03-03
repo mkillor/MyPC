@@ -13,6 +13,7 @@ public class Case {
     private Ram ram;
     private Storage storage;
     private GPU gpu;
+    static double totalPrice;
 
     public Case(String brand, PowerSupply psu, CPU cpu, MotherBoard mb, Ram ram, Storage storage, GPU gpu) {
         this.brand = brand;
@@ -23,4 +24,7 @@ public class Case {
         this.storage = storage;
         this.gpu = gpu;
     }
+
+
+
 }
