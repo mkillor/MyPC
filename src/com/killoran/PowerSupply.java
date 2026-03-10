@@ -1,8 +1,6 @@
 package com.killoran;
 
-/**
- * Created by MK on 3/2/2020.
- */
+
 public class PowerSupply {
     private String brand;
     private double price;

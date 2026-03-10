@@ -1,8 +1,6 @@
 package com.killoran;
 
-/**
- * Created by MK on 3/2/2020.
- */
+
 public class Case {
     private String brand;
     //do not worry about other features of case although you could most certainly add more.
